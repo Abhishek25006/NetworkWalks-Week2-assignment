@@ -1,4 +1,4 @@
-# PENETRATION TESTING REPORT (SAMPLE)
+# PENETRATION TESTING REPORT 
 ### Footprinting & Network Scanning Phases
 
 **W2-PM-FINAL  |  CYBERSECURITY  |  NETWORKWALKS**
@@ -142,37 +142,27 @@ I also learned that technical findings should be documented clearly. A good cybe
 
 Finally, I learned that reconnaissance and scanning must always be performed within an authorized scope. These activities were completed as part of the assigned educational cybersecurity lab.
 
-## 8. Evidences Collected
+
+# 8. Evidences Collected
 
 *Screenshots collected as evidence during the activities (stored in the `screenshot/` folder):*
 
-### 1. WHOIS Output
-[View WHOIS Screenshot](screenshot/1_whois.png)
+![whois output](screenshot/1_whois.png)
 
-### 2. WhatWeb Output
-[View WhatWeb Screenshot](screenshot/2_whatweb.png)
+![whatweb output](screenshot/2_whatweb%20(1).png)
 
-### 3. NSLookup Output
-[View NSLookup Screenshot](screenshot/3_nslookup.png)
+![nslookup output](screenshot/3_nslookup.png)
 
-### 4. CURL Output
-[View CURL Screenshot](screenshot/4_curl.png)
+![curl output](screenshot/4_curl%20(1).png)
 
-### 5. WAFW00F Output
-[View WAFW00F Screenshot](screenshot/5_wafw00f.png)
+![wafw00f output](screenshot/5_wafw00f%20(1).png)
 
-### 6. DNSRecon Output
-[View DNSRecon Screenshot](screenshot/6_dnsrecon.png)
+![dnsrecon output](screenshot/6_dnsrecon%20(1).png)
 
-### 7. TheHarvester Output
-[View TheHarvester Screenshot](screenshot/7_theharvester.png)
+![theharvester output](screenshot/7_theharvester.png)
 
-### 8. Zenmap Scan
-[View Zenmap Scan Screenshot](screenshot/8_zenmap.png)
+![Zenmap scan](screenshot/8_zenmap%20(1).png)
 
-### 9. Zenmap Network Topology
-[View Zenmap Network Topology Screenshot](screenshot/9_zenmap.png)
+![Zenmap network topology](screenshot/9_zenmap%20(1).png)
 
----
-
-**End of Assignment.**
+-End-
