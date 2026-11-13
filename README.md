@@ -142,39 +142,37 @@ I also learned that technical findings should be documented clearly. A good cybe
 
 Finally, I learned that reconnaissance and scanning must always be performed within an authorized scope. These activities were completed as part of the assigned educational cybersecurity lab.
 
-# 8. Evidences Collected
+## 8. Evidences Collected
 
-*Screenshots collected as evidence during the activities (stored in the `screenshots/` folder):*
+*Screenshots collected as evidence during the activities (stored in the `screenshot/` folder):*
 
-![whois output](screenshot/1_whois.png)
+### 1. WHOIS Output
+[View WHOIS Screenshot](screenshot/1_whois.png)
 
-## Screenshots
+### 2. WhatWeb Output
+[View WhatWeb Screenshot](screenshot/2_whatweb.png)
 
-### 1. WHOIS
-![WHOIS](screenshot/1_whois.png)
+### 3. NSLookup Output
+[View NSLookup Screenshot](screenshot/3_nslookup.png)
 
-### 2. WhatWeb
-![WhatWeb](screenshot/2_whatweb.png)
+### 4. CURL Output
+[View CURL Screenshot](screenshot/4_curl.png)
 
-### 3. NSLookup
-![NSLookup](screenshot/3_nslookup.png)
+### 5. WAFW00F Output
+[View WAFW00F Screenshot](screenshot/5_wafw00f.png)
 
-### 4. CURL
-![CURL](screenshot/4_curl.png)
+### 6. DNSRecon Output
+[View DNSRecon Screenshot](screenshot/6_dnsrecon.png)
 
-### 5. WAFW00F
-![WAFW00F](screenshot/5_wafw00f.png)
+### 7. TheHarvester Output
+[View TheHarvester Screenshot](screenshot/7_theharvester.png)
 
-### 6. DNSRecon
-![DNSRecon](screenshot/6_dnsrecon.png)
+### 8. Zenmap Scan
+[View Zenmap Scan Screenshot](screenshot/8_zenmap.png)
 
-### 7. TheHarvester
-![TheHarvester](screenshot/7_theharvester.png)
+### 9. Zenmap Network Topology
+[View Zenmap Network Topology Screenshot](screenshot/9_zenmap.png)
 
-### 8. Zenmap
-![Zenmap](screenshot/8_zenmap.png)
+---
 
-### 9. Zenmap
-![Zenmap](screenshot/9_zenmap.png)
-END
-
+**End of Assignment.**
