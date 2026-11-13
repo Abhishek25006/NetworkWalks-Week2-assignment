@@ -148,16 +148,33 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 ![whois output](screenshot/1_whois.png)
 
-![whatweb output](screenshot/2_whatweb.png)
+## Screenshots
 
-![nslookup output](screenshots/3_nslookup.png)
+### 1. WHOIS
+![WHOIS](screenshot/1_whois.png)
 
-![curl output](screenshots/4_curl.png)
+### 2. WhatWeb
+![WhatWeb](screenshot/2_whatweb.png)
 
-![wafw00f output](screenshots/5_wafw00f.png)
+### 3. NSLookup
+![NSLookup](screenshot/3_nslookup.png)
 
-![dnsrecon output](screenshots/8_zenmap.png)
+### 4. CURL
+![CURL](screenshot/4_curl.png)
 
-![Zenmap scan and topology](screenshots/9_zenmap.png)
+### 5. WAFW00F
+![WAFW00F](screenshot/5_wafw00f.png)
 
--End-
+### 6. DNSRecon
+![DNSRecon](screenshot/6_dnsrecon.png)
+
+### 7. TheHarvester
+![TheHarvester](screenshot/7_theharvester.png)
+
+### 8. Zenmap
+![Zenmap](screenshot/8_zenmap.png)
+
+### 9. Zenmap
+![Zenmap](screenshot/9_zenmap.png)
+END
+
